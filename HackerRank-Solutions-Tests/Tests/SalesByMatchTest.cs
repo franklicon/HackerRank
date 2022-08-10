@@ -1,6 +1,6 @@
-﻿using HackerRank_Solutions;
+﻿using HackerRank_Solutions.Solutions;
 
-namespace HackerRank_Solutions_Tests
+namespace HackerRank_Solutions_Tests.Tests
 {
     [TestClass]
     public class SalesByMatchTest
