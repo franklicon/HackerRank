@@ -1,0 +1,12 @@
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\bin\Debug\net6.0\HackerRank-Solutions.deps.json
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\bin\Debug\net6.0\HackerRank-Solutions.dll
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\bin\Debug\net6.0\HackerRank-Solutions.pdb
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.AssemblyInfoInputs.cache
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.AssemblyInfo.cs
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.dll
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\refint\HackerRank-Solutions.dll
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\HackerRank-Solutions.pdb
+C:\Users\franc\Documents\Github\HackerRank\HackerRank-Solutions\obj\Debug\net6.0\ref\HackerRank-Solutions.dll
