@@ -1,9 +1,4 @@
 ﻿using HackerRank_Solutions.Solutions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HackerRank_Solutions_Tests.Tests
 {
