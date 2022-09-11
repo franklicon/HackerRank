@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HackerRank_Solutions_Tests.Tests
 {
     [TestClass]
-    public class AngryProfessorTests
+    public class AngryProfessorTest
     {
         [TestMethod]
         public void AngryProfessorTest1()
