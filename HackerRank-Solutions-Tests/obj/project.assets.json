@@ -6358,9 +6358,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\HackerRank-Solutions-Tests.csproj",
-      "projectName": "HackerRank-Solutions-Tests",
-      "projectPath": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\HackerRank-Solutions-Tests.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\HackerRank-Tests.csproj",
+      "projectName": "HackerRank-Tests",
+      "projectPath": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\HackerRank-Tests.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\obj\\",
       "projectStyle": "PackageReference",

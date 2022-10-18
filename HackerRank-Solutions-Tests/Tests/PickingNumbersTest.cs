@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank_Solutions_Tests.Tests
+namespace HackerRank_Tests.Tests
 {
     [TestClass]
     public class PickingNumbersTest

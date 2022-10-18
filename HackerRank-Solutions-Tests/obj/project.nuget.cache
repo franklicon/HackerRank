@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qv9hVmAsO/fs0ULFhjDfFZ9Lq90CbYEiZKoTfcx9kco6aVMmudFxbo8sXkqcdek54JQNUYjMQ81eFKWRwAJjow==",
+  "dgSpecHash": "6Daj6q0mQc6DYlCn9KqZ2+RgWKIyPIG3GiUY3eZMbdp7ekio79m2HN1FemgRI/3uz6UJ0Uk3wVc/2gY9kkeK1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\HackerRank-Solutions-Tests.csproj",
+  "projectFilePath": "C:\\Users\\franc\\Documents\\Github\\HackerRank\\HackerRank-Solutions-Tests\\HackerRank-Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

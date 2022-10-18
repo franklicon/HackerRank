@@ -1,6 +1,6 @@
 ﻿using HackerRank_Solutions.Solutions;
 
-namespace HackerRank_Solutions_Tests.Tests
+namespace HackerRank_Tests.Tests
 {
     [TestClass]
     public class DesignerPDFViewerTest
